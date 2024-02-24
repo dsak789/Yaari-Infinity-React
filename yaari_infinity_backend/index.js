@@ -7,6 +7,9 @@ const port = 7777
 app.get('/api/yaariinfinity',(req,res)=>{
     res.json("Congratulation..! Yaari Infinity Server Successfully working through Vercel Hosting")
 })
+app.get('/',(req,res)=>{
+    res.json("Congratulation..! Yaari Infinity Server Successfully working through Vercel Hosting")
+})
 
 
 app.listen(port,()=>{
