@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "user_id":"dsak789",
+        "password":"1437890",
+        "name":"Dannana Sai Ajith Kumar",
+        "phoneno":"7893412318"
+    },
+    {
+        "id":2,
+        "user_id":"sbcreations14378",
+        "password":"1437890",
+        "name":"Sai Ajith Kumar",
+        "phoneno":"7036468869"
+    },
+    {
+        "id":3,
+        "user_id":"dummy123",
+        "password":"dummy",
+        "name":"Dummy",
+        "phoneno":"9876543210"
+    }
+]

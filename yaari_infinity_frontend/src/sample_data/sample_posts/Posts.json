@@ -1,0 +1,29 @@
+[
+    {
+        "id":1,
+        "user_id":"dsak789",
+        "post_date":"2024-02-25",
+        "post_content":"testing from json",
+        "post_media":"src",
+        "post_status":"posted",
+        "post_privacy":"all_users"
+    },
+    {
+        "id":2,
+        "user_id":"sbcreations14378",
+        "post_date":"2024-02-25",
+        "post_content":"testing from json",
+        "post_media":"src",
+        "post_status":"draft",
+        "post_privacy":"my_friends"
+    },
+    {
+        "id":3,
+        "user_id":"dsak789",
+        "post_date":"2024-02-25",
+        "post_content":"testing from json",
+        "post_media":"src",
+        "post_status":"deleted",
+        "post_privacy":"only_me"
+    }
+]
